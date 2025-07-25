@@ -1,13 +1,12 @@
 {
-  "routes": [
+  "version": 2,
+  "builds": [
     {
-      "src": "/pokemon/.*",
-      "dest": "/index.html",
-      "status": 200
-    },
-    {
-      "src": "/(.*)", 
-      "dest": "/index.html"
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
+      }
     }
   ]
 }
