@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "src": "/pokemon/.*",
+      "dest": "/index.html",
+      "status": 200
+    },
+    {
+      "src": "/(.*)", 
+      "dest": "/index.html"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+.details {
+  position: absolute;
+  top: 0.6rem;
+  left: 0.8rem;
+  color: white;
+  padding: 1rem;
+  width: 20rem;
+  height: 6rem;
+  text-transform: uppercase;
+  font-size: 0.6rem;
+  &::before {
+    height: 0.3rem;
+    width: 9rem;
+    content: "";
+    background-color: var(--accent-color);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .name {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+  button {
+    position: absolute;
+    right: 1rem;
+    bottom: -2rem;
+
+    padding: 0.8rem 0.8rem;
+    background-color: transparent;
+    border: 0.1rem solid var(--accent-color);
+    outline: none;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    font-size: 0.7rem;
+  }
+  background: linear-gradient(
+        $bg-color ($dot-space - $dot-size),
+        transparent 1%
+      )
+      center,
+    $dot-color;
+}
