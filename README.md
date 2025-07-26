@@ -79,9 +79,9 @@ pokedex/
 │   ├── pages/
 │   ├── sass/
 │   ├── sections/
-│   └── utils/
-│   └── App.tsx
-│   └── index.tsx
+│   ├── utils/
+│   ├── App.tsx
+│   ├── index.tsx
 │   └── react-app-env.d.ts
 ├── package-lock.json
 ├── package.json
