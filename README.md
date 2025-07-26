@@ -70,16 +70,19 @@ Bem-vindo ao site da Pokédex, sua fonte definitiva de informações sobre todos
 ```tree
 pokedex/
 │
+├── node_modules/
 ├── public/
 ├── src/
+│   ├── app/
+│   ├── assets/
 │   ├── components/
-│   ├── features/       # Redux slices
-│   ├── hooks/
 │   ├── pages/
-│   ├── services/       # API/Firebase
-│   ├── styles/
-│   ├── types/          # TypeScript types
+│   ├── sass/
+│   ├── sections/
 │   └── utils/
-├── .firebaserc
-├── firebase.json
+│   └── App.tsx
+│   └── index.tsx
+│   └── react-app-env.d.ts
+├── package-lock.json
+├── package.json
 └── tsconfig.json
