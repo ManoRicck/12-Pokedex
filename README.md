@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/6a2460b4-fefa-4b47-bccc-7b8808f7a440
 | <img src="https://img.icons8.com/color/512/sass.png" width="20"> **SCSS** | Estilização avançada | [Sass Docs](https://sass-lang.com/documentation) |
 | <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width="20"> **Redux Toolkit** | Gerenciamento de estado | [Redux Toolkit Docs](https://redux-toolkit.js.org/) |
 | <img src="https://cdn-icons-png.flaticon.com/512/188/188987.png" width="20"> **PokéAPI** | Dados dos Pokémon | [PokéAPI Docs](https://pokeapi.co/docs/v2) |
-| <img src="https://github.com/user-attachments/assets/31d6bb46-95c7-49ef-a5d0-d635cd5712fc" width="20"> **Node.js** | Ambiente de execução | [Node.js Docs](https://nodejs.org/en/docs/) |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6mkk0TKy0Hww7V1J9JkVUaHoF35GhtJN1Tw&s" width="20"> **Node.js** | Ambiente de execução | [Node.js Docs](https://nodejs.org/en/docs/) |
 | <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" width="20"> **JSON** | Estrutura de dados | [JSON Docs](https://www.json.org/json-en.html) |
 </div>
 <br>
