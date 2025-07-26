@@ -12,30 +12,27 @@ https://github.com/user-attachments/assets/6a2460b4-fefa-4b47-bccc-7b8808f7a440
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge" alt="React" height="30">
     &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" alt="TypeScript" height="30">
-    &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge" alt="Firebase" height="30">
     &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge" alt="Redux Toolkit" height="30">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" alt="TypeScript" height="30">
     &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&style=for-the-badge" alt="SCSS" height="30">
+    &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge" alt="Redux Toolkit" height="30">
 </div>
 
 <br>
 
 ## Tecnologia
 
-| Tecnologia       | Uso no Projeto               | Documentação                  |
-|------------------|------------------------------|-------------------------------|
-| **React**        | Framework principal          | [React Docs](https://reactjs.org/docs/getting-started.html) |
-| **TypeScript**   | Tipagem estática             | [TypeScript Docs](https://www.typescriptlang.org/docs/) |
-| **Firebase**     | Autenticação e banco de dados | [Firebase Docs](https://firebase.google.com/docs) |
-| **Redux Toolkit**| Gerenciamento de estado      | [Redux Toolkit Docs](https://redux-toolkit.js.org/) |
-| **SCSS**         | Estilização avançada         | [Sass Docs](https://sass-lang.com/documentation) |
-| **PokéAPI**      | Dados dos Pokémon            | [PokéAPI Docs](https://pokeapi.co/docs/v2) |
-
-<br>
-
+| Tecnologia | Uso no Projeto | Documentação |
+|------------|----------------|--------------|
+| <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="20"> **React** | Framework principal | [React Docs](https://reactjs.org/docs) |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="20"> **TypeScript** | Tipagem estática | [TypeScript Docs](https://www.typescriptlang.org/docs/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="20"> **Firebase** | Autenticação e banco | [Firebase Docs](https://firebase.google.com/docs) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2111/2111364.png" width="20"> **SCSS** | Estilização avançada | [Sass Docs](https://sass-lang.com/documentation) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width="20"> **Redux Toolkit** | Gerenciamento de estado | [Redux Toolkit Docs](https://redux-toolkit.js.org/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/188/188987.png" width="20"> **PokéAPI** | Dados dos Pokémon | [PokéAPI Docs](https://pokeapi.co/docs/v2) |
 <br>
 
 ## 🌟 Visão Geral
