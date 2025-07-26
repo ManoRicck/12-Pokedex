@@ -22,8 +22,7 @@ https://github.com/user-attachments/assets/6a2460b4-fefa-4b47-bccc-7b8808f7a440
 </div>
 
 <br>
-
-## Tecnologia
+<div align="center">
 
 | Tecnologia | Uso no Projeto | Documentação |
 |------------|----------------|--------------|
@@ -33,6 +32,7 @@ https://github.com/user-attachments/assets/6a2460b4-fefa-4b47-bccc-7b8808f7a440
 | <img src="https://cdn-icons-png.flaticon.com/512/2111/2111364.png" width="20"> **SCSS** | Estilização avançada | [Sass Docs](https://sass-lang.com/documentation) |
 | <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width="20"> **Redux Toolkit** | Gerenciamento de estado | [Redux Toolkit Docs](https://redux-toolkit.js.org/) |
 | <img src="https://cdn-icons-png.flaticon.com/512/188/188987.png" width="20"> **PokéAPI** | Dados dos Pokémon | [PokéAPI Docs](https://pokeapi.co/docs/v2) |
+</div>
 <br>
 
 ## 🌟 Visão Geral
