@@ -86,3 +86,29 @@ pokedex/
 ├── package-lock.json
 ├── package.json
 └── tsconfig.json
+```
+
+## 🚀 Como Executar Localmente
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/ManoRicck/01-Dodge_Viper_3d.git
+```
+2. Execute o projeto:
+```bash
+npm start
+```
+
+
+## ✉️ Contato
+
+Para dúvidas, sugestões ou parcerias:
+
+- 👤 Autor: ManoRicck
+- 📧 Email: henriqueexpedito964@gmail.com
+- 🧠 GitHub: github.com/ManoRicck
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT.<br>
+Sinta-se livre para usar, modificar e distribuir com os devidos créditos.
