@@ -21,6 +21,10 @@ https://github.com/user-attachments/assets/6a2460b4-fefa-4b47-bccc-7b8808f7a440
   <img src="https://img.shields.io/badge/Redux-State-764ABC?logo=redux&style=for-the-badge" alt="Redux Toolkit" height="30">
     &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PokéAPI-Data-EF5350?logo=pokemon&style=for-the-badge" alt="PokéAPI" height="30">
+    &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-Runtime-339933?logo=nodedotjs&style=for-the-badge" alt="Node.js" height="30">
+    &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JSON-Data-000000?logo=json&style=for-the-badge" alt="JSON" height="30">
 </div>
 
 <br>
