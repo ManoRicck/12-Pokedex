@@ -60,7 +60,6 @@ Bem-vindo ao site da Pokédex, sua fonte definitiva de informações sobre todos
 - 🔍 Busca de Pokémon por nome ou número
 - 📚 Catálogo completo de Pokémon
 - 💾 Favoritos salvos no Firebase
-- 📱 Design responsivo
 - 🎨 Temas personalizáveis
 
 <br>
