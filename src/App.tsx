@@ -58,7 +58,8 @@ export default function App() {
               <Route element={<About />} path="/about" />
               <Route element={<Compare />} path="/compare" />
               <Route element={<Pokemon />} path="/pokemon/:id" />
-              <Route element={<Navigate to="/pokemon/1" />} path="*" />
+              <Route path="/" element={<Navigate to="/pokemon/1" />} />  {/* Redireciona raiz para /pokemon/1 */}
+              <Route path="*" element={<Navigate to="/" />} />  {/* Qualquer rota inválida vai para a raiz */}
             </Routes>
             <Footer />
             <ToastContainer />
