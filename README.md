@@ -91,7 +91,7 @@ pokedex/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/ManoRicck/01-Dodge_Viper_3d.git
+git clone https://github.com/ManoRicck/12-Pokedex.git
 ```
 2. Execute o projeto:
 ```bash
