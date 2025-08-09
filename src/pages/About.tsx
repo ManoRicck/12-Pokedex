@@ -23,7 +23,7 @@ function About() {
         <FaInstagram/>
         </a>
 
-        <a href="#"
+        <a href="https://www.linkedin.com/in/henrique-expedito-63805b279"
         target="_blank" rel="noopener noreferrer"
         >
         <FaLinkedin/>
